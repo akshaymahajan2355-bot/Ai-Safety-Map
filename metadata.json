@@ -1,0 +1,6 @@
+{
+  "name": "AI Road Safety Assistant",
+  "description": "Your route. Your vehicle. Your safety. Mobile-first Google Maps-style navigation with AI pothole detection, vehicle-specific risk, and voice safety alerts.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
